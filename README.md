@@ -1,9 +1,10 @@
 The Beepblaster "Beeptable" Module for
 Waveblaster Connector
 
-The Module supports 16 Voice, GM1.0, and modulates Sound over PWM.
+Beepblaster 1.0 is a Mono-Module,
+Beepblaster 2.0 is a Module with Stereo Support.
 
-It's a fun Project 😀
+The Module supports 16 Voice, GM1.0, and modulates Sound over PWM.
 
 The Software is based on Daniel Lehenauer' Github Project :
 https://github.com/DLehenbauer/arduino-midi-sound-module
