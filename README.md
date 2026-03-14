@@ -20,5 +20,5 @@ Jumpersettings:
 ## This is the Beepblaster 1.0 Module in Mono:
 ![Beepblaster 1.0](images/Beepblaster_1.png)
 
-## That's is the Beepblaster 2.0 Module in Stereo:
+## That's the Beepblaster 2.0 Module in Stereo:
 ![Beepblaster 2.0](images/Beepblaster_2.png)
