@@ -1,4 +1,4 @@
-## BeepBlaster
+# BeepBlaster
 
 BeepBlaster is a minimalist hardware sound device designed for retro PC MIDI setups.
 It focuses on a puristic lo-fi sound aesthetic while maintaining full General MIDI compatibility.
@@ -7,7 +7,7 @@ The device is built for systems with a WaveBlaster header, allowing it to be ins
 
 Two hardware revisions currently exist: BeepBlaster 1.0 and BeepBlaster 2.0.
 
-# BeepBlaster 1.0
+## BeepBlaster 1.0
 
 ![Beepblaster 1.0](images/Beepblaster_1.png)
 
