@@ -16,4 +16,4 @@ Jumpersettings:
 
 ![Beepblaster 1.0](images/beepblaster_1.png)
 
-![Beepblaster 2.0](images/beepblaster_1.png)
+![Beepblaster 2.0](images/beepblaster_2.png)
