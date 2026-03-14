@@ -37,25 +37,26 @@ BeepBlaster 2.0 expands the concept while keeping the same basic architecture.
 
 The design uses two ATmega328P microcontrollers to add stereo support, allowing a wider and more dynamic sound compared to the original mono version.
 
-Characteristics
+Characteristics:
 
-Dual ATmega328P architecture
+- Dual ATmega328P architecture
 
-Stereo output
+- Stereo output
 
-Full General MIDI compatibility (16 channels)
+- Full General MIDI compatibility (16 channels)
 
-WaveBlaster header compatible
+- WaveBlaster header compatible
 
 Version 2.0 keeps the same philosophy as the original hardware but offers improved spatial sound.
 
-Operating Modes
+Operating Modes:
 
 The board includes a jumper selection that controls the operating mode.
 
-Jumper	Mode	Description
-1–2	BeepBlaster Mode	Puristic lo-fi sound
-2–3	Beeptable Synthesizer	Higher quality sound mode
+Jumper	Mode	Description:
+- 1–2	BeepBlaster Mode	Puristic lo-fi sound
+- 2–3	Beeptable Synthesizer	Higher quality sound mode
+
 Design Goals
 
 Simple and deterministic hardware
