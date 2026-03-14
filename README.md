@@ -1,3 +1,5 @@
+# Beepblaster
+
 The Beepblaster "Beeptable" Module for
 Waveblaster Connector
 
@@ -15,8 +17,8 @@ Jumpersettings:
 2-3 Beeptable Synthesizer (best Sound)
 
 
-This is the Beepblaster 1.0 Module in Mono:
+## This is the Beepblaster 1.0 Module in Mono:
 ![Beepblaster 1.0](images/Beepblaster_1.png)
 
-That's is the Beepblaster 2.0 Module in Stereo:
+## That's is the Beepblaster 2.0 Module in Stereo:
 ![Beepblaster 2.0](images/Beepblaster_2.png)
