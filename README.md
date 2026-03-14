@@ -14,6 +14,6 @@ Jumpersettings:
 1-2 Beepblaster Mode (puristic Sound)
 2-3 Beeptable Synthesizer (best Sound)
 
-![Beepblaster 1.0](Images/beepblaster_1.png)
+![Beepblaster 1.0](images/Beepblaster_1.png)
 
-![Beepblaster 2.0](Images/beepblaster_2.png)
+![Beepblaster 2.0](images/Beepblaster_2.png)
