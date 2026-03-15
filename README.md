@@ -78,8 +78,7 @@ Here some Demos - Thanks to YT Creators!
 <iframe
   src="https://www.youtube.com/embed/mACnRDPnbUw"
   width="560"
-  height="315"
-  allowfullscreen>
+  height="315">
 </iframe>
 
 
