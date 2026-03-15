@@ -79,25 +79,26 @@ Contributions, ideas, and testing feedback are welcome.
 
 ### Monkey Island
 <audio controls>
-  <source src="demo_mp3/BTS_Monkey_Island.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_Monkey_Island.mp3" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
+
 ### Duke 3D
 <audio controls>
-  <source src="demo_mp3/BTS_Duke3D.mp3" type="audio/mpeg">
+   <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_Duke3D.mp3" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
 ### Legend of Kyrandia
 <audio controls>
-  <source src="demo_mp3/BTS_Kyrandia.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_Kyrandia.mp3" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
 ### DOOM 2
 <audio controls>
-  <source src="demo_mp3/BTS_Doom2.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_Doom2.mp3" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
@@ -105,25 +106,25 @@ Contributions, ideas, and testing feedback are welcome.
 
 ### Monkey Island
 <audio controls>
-  <source src="demo_mp3/BB_Monkey_Island.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BB_Monkey_Island.mp3" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
 ### Duke 3D
 <audio controls>
-  <source src="demo_mp3/BB_Duke3D.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BB_Duke3d.mp3" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
 ### Legend of Kyrandia
 <audio controls>
-  <source src="demo_mp3/BB_Kyrandia.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BB_Kyrandia.mp3" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
 ### DOOM 2
 <audio controls>
-  <source src="demo_mp3/BB_Doom2.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BB_Doom_2" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
