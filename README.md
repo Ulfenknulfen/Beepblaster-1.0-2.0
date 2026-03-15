@@ -75,15 +75,15 @@ Contributions, ideas, and testing feedback are welcome.
 
 Here some Demos - Thanks to YT Creators!
 
-## Beepblaster 1.0 Demo:
+### Beepblaster 1.0 Demo:
 [![BB 1.0 DEMO](https://img.youtube.com/vi/25EGgxQXoM4/0.jpg)](https://www.youtube.com/watch?v=25EGgxQXoM4)
 
-## Beepblaster 2.0 Demo:
+### Beepblaster 2.0 Demo:
 [![BB 2.0 DEMO](https://img.youtube.com/vi/cnJLOFmRATA/0.jpg)](https://www.youtube.com/watch?v=cnJLOFmRATA?t=113)
 
-## PSG + BB 1.0 Demo:
+### PSG + BB 1.0 Demo:
 [![PSG + BB 1.0 DEMO](https://img.youtube.com/vi/dIqkZ9kAeHs/0.jpg)](https://www.youtube.com/watch?v=dIqkZ9kAeHs)
 
-## More PSG + BB 1.0 Demo:
+### More PSG + BB 1.0 Demo:
 [![BB 1.0 DEMO](https://img.youtube.com/vi/mACnRDPnbUw/0.jpg)](https://www.youtube.com/watch?v=mACnRDPnbUw)
 
