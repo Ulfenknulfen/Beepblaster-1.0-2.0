@@ -65,13 +65,17 @@ Direct compatibility with WaveBlaster MIDI interfaces
 
 Full GMIDI playback
 
-
-
 Distinctive retro lo-fi sound
 
 Minimal component count
 
 Contributions, ideas, and testing feedback are welcome.
+
+### Acknowledgments:
+This project builds upon the original software from Daniel Lehenbauer’s arduino‑midi‑sound‑module project, available at:
+https://github.com/DLehenbauer/arduino-midi-sound-module
+I would like to thank Daniel for making his work publicly available and for providing the foundation on which this project is based.
+The hardware design is entirely my own intellectual property, and the software has been further developed and extended by me to support additional features and improvements.
 
 Here some Demos - Thanks to YT Creators!
 
