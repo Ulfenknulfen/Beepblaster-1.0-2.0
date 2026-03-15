@@ -75,15 +75,5 @@ Contributions, ideas, and testing feedback are welcome.
 
 Here some Demos - Thanks to YT Creators!
 
-<iframe
-  src="https://www.youtube.com/embed/mACnRDPnbUw"
-  width="560"
-  height="315">
-</iframe>
-
-
-  frameborder="1"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+[![BB 1.0 DEMO](https://img.youtube.com/vi/mACnRDPnbUw/0.jpg)](https://www.youtube.com/watch?v=mACnRDPnbUw)
 
