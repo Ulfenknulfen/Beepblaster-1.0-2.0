@@ -77,7 +77,7 @@ Here some Demos - Thanks to YT Creators!
 
 [![BB 1.0 (MSX) Demo from superdeadite](https://img.youtube.com/vi/mACnRDPnbUw/0.jpg)](https://www.youtube.com/watch?v=mACnRDPnbUw)
 
-  frameborder="0"
+  frameborder="1"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
