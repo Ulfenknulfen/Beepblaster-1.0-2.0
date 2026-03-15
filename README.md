@@ -78,10 +78,7 @@ Contributions, ideas, and testing feedback are welcome.
 ### BTS - Beeptable Sound Quality:
 
 ### Monkey Island
-<audio controls>
-  <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/demo_mp3/BTS_MI1.mp3" type="audio/mpeg">
-  Dein Browser unterstützt kein Audio-Element.
-</audio>
+🎧 **Demo:** [BTS_MI1.mp3](demo_mp3/BTS_MI1.mp3)
 
 
 ### Duke 3D
