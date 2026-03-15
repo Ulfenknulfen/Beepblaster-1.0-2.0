@@ -75,9 +75,8 @@ Contributions, ideas, and testing feedback are welcome.
 
 Here some Demos - Thanks to YT Creators!
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/mACnRDPnbUw"
-  title="YouTube video player"
+[![BB 1.0 (MSX) Demo from superdeadite](https://img.youtube.com/vi/mACnRDPnbUw/0.jpg)](https://www.youtube.com/watch?v=mACnRDPnbUw)
+
   frameborder="0"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
