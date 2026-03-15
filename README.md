@@ -73,56 +73,13 @@ Minimal component count
 
 Contributions, ideas, and testing feedback are welcome.
 
-## Here are some Demo-Files
+Here some Demos - Thanks to YT Creators!
 
-### BTS - Beeptable Sound Quality:
-
-### Monkey Island
-<audio controls>
-  <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_MI1.mp3" type="audio/mpeg">
-</audio>
-
-
-### Duke 3D
-<audio controls>
-   <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_Duke3D.mp3" type="audio/mpeg">
-  Dein Browser unterstützt kein Audio-Element.
-</audio>
-
-### Legend of Kyrandia
-<audio controls>
-    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_Kyrandia.mp3" type="audio/mpeg">
-  Dein Browser unterstützt kein Audio-Element.
-</audio>
-
-### DOOM 2
-<audio controls>
-    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_Doom2.mp3" type="audio/mpeg">
-  Dein Browser unterstützt kein Audio-Element.
-</audio>
-
-### BB - Beeblaster Sound Quality (puristic Mode):
-
-[### Monkey Island
-<audio controls>
-    <source src="[https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_MI1.mp3" type="audio/mpeg">
-  Dein Browser unterstützt kein Audio-Element.
-
-### Duke 3D
-<audio controls>
-    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BB_Duke3d.mp3" type="audio/mpeg">
-  Dein Browser unterstützt kein Audio-Element.
-</audio>
-
-### Legend of Kyrandia
-<audio controls>
-    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BB_Krandia.mp3" type="audio/mpeg">
-  Dein Browser unterstützt kein Audio-Element.
-</audio>
-
-### DOOM 2
-<audio controls>
-    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BB_Doom_2.mp3" type="audio/mpeg">
-  Dein Browser unterstützt kein Audio-Element.
-</audio>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/mACnRDPnbUw"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
