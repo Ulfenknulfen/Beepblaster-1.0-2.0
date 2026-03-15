@@ -1,0 +1,14 @@
+R1, R4 - 1M , 1206
+R2, R3 - 2.2 k , 1206
+R5 - 10k , 1206
+R6 - 100 , 1206
+C1 - 3.3 nF , 1206
+C2 - 10uF - 50V D-5mm
+C3, C4 - 22pF , 1206
+C5 - 100nF , 1206
+Y1 - 16MHz HC-49S
+U1 - ATmega328-P + Socket
+J1 - 2x13 Socket (Waveblaster Connector)
+JP1 - 3 Pin Jumper Header + Jumper
+
+
