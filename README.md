@@ -65,8 +65,65 @@ Direct compatibility with WaveBlaster MIDI interfaces
 
 Full GMIDI playback
 
+
+
 Distinctive retro lo-fi sound
 
 Minimal component count
 
 Contributions, ideas, and testing feedback are welcome.
+
+## Here are some Demo-Files
+
+### BTS - Beeptable Sound Quality:
+
+### Monkey Island
+<audio controls>
+  <source src="demo_mp3/BTS_Monkey_Island.mp3" type="audio/mpeg">
+  Dein Browser unterstützt kein Audio-Element.
+</audio>
+
+### Duke 3D
+<audio controls>
+  <source src="demo_mp3/BTS_Duke3D.mp3" type="audio/mpeg">
+  Dein Browser unterstützt kein Audio-Element.
+</audio>
+
+### Legend of Kyrandia
+<audio controls>
+  <source src="demo_mp3/BTS_Kyrandia.mp3" type="audio/mpeg">
+  Dein Browser unterstützt kein Audio-Element.
+</audio>
+
+### DOOM 2
+<audio controls>
+  <source src="demo_mp3/BTS_Doom2.mp3" type="audio/mpeg">
+  Dein Browser unterstützt kein Audio-Element.
+</audio>
+
+### BB - Beeblaster Sound Quality (puristic Mode):
+
+### Monkey Island
+<audio controls>
+  <source src="demo_mp3/BB_Monkey_Island.mp3" type="audio/mpeg">
+  Dein Browser unterstützt kein Audio-Element.
+</audio>
+
+### Duke 3D
+<audio controls>
+  <source src="demo_mp3/BB_Duke3D.mp3" type="audio/mpeg">
+  Dein Browser unterstützt kein Audio-Element.
+</audio>
+
+### Legend of Kyrandia
+<audio controls>
+  <source src="demo_mp3/BB_Kyrandia.mp3" type="audio/mpeg">
+  Dein Browser unterstützt kein Audio-Element.
+</audio>
+
+### DOOM 2
+<audio controls>
+  <source src="demo_mp3/BB_Doom2.mp3" type="audio/mpeg">
+  Dein Browser unterstützt kein Audio-Element.
+</audio>
+
