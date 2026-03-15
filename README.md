@@ -7,7 +7,7 @@ The device is built for systems with a WaveBlaster header, allowing it to be ins
 
 Two hardware revisions currently exist: BeepBlaster 1.0 and BeepBlaster 2.0.
 
-## BeepBlaster 1.0
+## BeepBlaster 1.0 (Mono Version)
 
 ![Beepblaster 1.0](images/Beepblaster_1.png)
 
@@ -29,7 +29,7 @@ Very small and simple hardware design
 
 The goal of version 1.0 is simplicity: minimal hardware, deterministic behavior, and a characteristic retro sound.
 
-## BeepBlaster 2.0
+## BeepBlaster 2.0 (Stereo Version)
 
 ![Beepblaster 2.0](images/Beepblaster_2.png)
 
