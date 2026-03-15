@@ -79,7 +79,7 @@ Contributions, ideas, and testing feedback are welcome.
 
 ### Monkey Island
 <audio controls>
-  <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_Monkey_Island.mp3" type="audio/mpeg">
+  <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BTS_MI1.mp3" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
@@ -124,7 +124,7 @@ Contributions, ideas, and testing feedback are welcome.
 
 ### DOOM 2
 <audio controls>
-    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BB_Doom_2" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/Ulfenknulfen/Beepblaster-1.0-2.0/main/demo_mp3/BB_Doom_2.mp3" type="audio/mpeg">
   Dein Browser unterstützt kein Audio-Element.
 </audio>
 
